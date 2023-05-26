@@ -1,4 +1,4 @@
-# encryption
+# encryption SHC
 
 <li>Install SHC</li>
 <pre><code>sudo apt-get update</code></pre>
