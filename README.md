@@ -15,3 +15,5 @@ Encryption menggunakan SHC tanpa ribet harus encrypt satu persatu ini tools untu
 
 <li>Penting!</li>
 Buat folder enc di root secara manual atau jalankan tools pilih no 1 setelah itu copy semua file yang mau di encrypt ke folder enc baru tekan no 2 done.
+
+Build with go
