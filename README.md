@@ -5,7 +5,7 @@
 <pre><code>sudo apt-get install shc</code></pre>
 
 <li>Cara Pasang</li>
-<pre><code>wget -O encryption.sh "https://raw.githubusercontent.com/Gugun09/encryption/main/encrypt_license.sh" && chmod +x encryption.sh</code></pre>
+<pre><code>wget -O encryption.sh "https://raw.githubusercontent.com/Gugun09/encryption/main/encrypt_no.sh" && chmod +x encryption.sh</code></pre>
 <li>Jalankan Perintah</li>
 <pre><code>./encryption.sh</code></pre>
 
