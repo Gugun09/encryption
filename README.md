@@ -14,6 +14,20 @@
 Encryption menggunakan SHC tanpa ribet harus encrypt satu persatu ini tools untuk encrypt sekaligus berapapun yang mau di encrypt
 
 <li>Penting!</li>
-Buat folder enc di root secara manual atau jalankan tools pilih no 1 setelah itu copy semua file yang mau di encrypt ke folder enc baru tekan no 2 done.
+Buat folder enc di root secara manual lalu jalankan script tekan 1 done.
+ini akan menencrypt seluruh file di dalam enc beserta sub folder nya
+Contoh :
+
+    ├── script.sh
+    ├── folder1
+    │   ├── subfolder1
+    │   │   └── script1.sh
+    │   └── subfolder2
+    │       └── script2.sh
+    └── folder2
+        ├── subfolder3
+        │   └── script3.sh
+        └── subfolder4
+            └── script4.sh
 
 Build with go
