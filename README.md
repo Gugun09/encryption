@@ -6,9 +6,9 @@
 <pre><code>sudo apt-get install shc</code></pre>
 
 <li>Cara Pasang</li>
-<pre><code>wget -O encryption.sh "https://raw.githubusercontent.com/Gugun09/encryption/main/encrypt_no.sh" && chmod +x encryption.sh</code></pre>
+<pre><code>wget -O encshc "https://raw.githubusercontent.com/Gugun09/encryption/main/encshc" && chmod +x encshc</code></pre>
 <li>Jalankan Perintah</li>
-<pre><code>./encryption.sh</code></pre>
+<pre><code>./encshc</code></pre>
 
 Encryption menggunakan SHC tanpa ribet harus encrypt satu persatu ini tools untuk encrypt sekaligus berapapun yang mau di encrypt
 
