@@ -29,5 +29,3 @@ Contoh :
         │   └── script3.sh
         └── subfolder4
             └── script4.sh
-
-Build with go
