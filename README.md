@@ -7,7 +7,7 @@
 <pre><code>sudo apt-get install shc</code></pre>
 
 <li>Cara Pasang</li>
-<pre><code>wget -O encshc "https://raw.githubusercontent.com/Gugun09/encryption/main/encshc" && chmod +x encshc</code></pre>
+<pre><code>wget -q -O encshc "https://raw.githubusercontent.com/Gugun09/encryption/main/encshc" && chmod +x encshc</code></pre>
 <li>Jalankan Perintah</li>
 <pre><code>./encshc</code></pre>
 
