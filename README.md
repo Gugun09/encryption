@@ -3,6 +3,7 @@
 <li>Install SHC</li>
 <pre><code>sudo apt-get update</code></pre>
 <pre><code>sudo apt install build-essential</code></pre>
+<pre><code>sudo apt-get install -y jq</code></pre>
 <pre><code>sudo apt-get install shc</code></pre>
 
 <li>Cara Pasang</li>
